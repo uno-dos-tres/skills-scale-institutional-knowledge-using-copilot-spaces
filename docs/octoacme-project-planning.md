@@ -34,6 +34,14 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Confirm dependency owners and agreed handoff points
+
+## Handoff & Delivery Readiness Checklist
+- [ ] Acceptance criteria drafted for all backlog items
+- [ ] Dependencies and integration points documented
+- [ ] Owners assigned for each dependency and handoff
+- [ ] QA approach reviewed with Delivery Lead and QA Lead
+- [ ] Release milestones mapped to backlog work
 
 ## Planning Checklist
 - [ ] Project kickoff held
@@ -41,3 +49,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Alignment review with Product, Project, and Delivery Leads completed

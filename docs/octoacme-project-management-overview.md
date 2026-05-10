@@ -28,6 +28,19 @@ Applies to all cross-functional projects that deliver product features, services
 - Risk Register
 - Retrospective notes and action items
 
+## Artifact Ownership
+- Project Manager: project plan, risk register, stakeholder communications
+- Product Manager: roadmap, success metrics, product requirements
+- Delivery Lead / Release Manager: release plan, deployment readiness checks
+- QA Lead: test strategy, quality gates, validation status
+- Technical Architect: architecture decisions and dependency documentation
+
+## Role Interactions
+- Product Managers and Project Managers synchronize on scope, priority, and stakeholder expectations.
+- Delivery Leads work with QA, Dev, and Ops to coordinate release readiness and deployment activities.
+- Technical Architects partner with Developers and Project Managers on design trade-offs and dependencies.
+- Stakeholder Liaisons keep business sponsors aligned and support escalation decisions.
+
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
 2. Planning: scope, resources, milestones, dependencies.

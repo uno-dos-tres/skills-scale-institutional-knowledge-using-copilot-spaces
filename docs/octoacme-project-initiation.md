@@ -29,12 +29,29 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Quick risks & dependencies:
 - Proposed team / roles:
 
+## Stakeholder Communication Plan Template
+- Audience:
+- Purpose:
+- Frequency:
+- Owner:
+- Format / channel:
+- Key messages / decisions required:
+
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
+- [ ] Communication plan drafted and shared with stakeholders
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+
+## Decision Gate
+Move to planning when:
+- Success metrics are clear
+- Stakeholders agree on priority
+- Team availability is confirmed
+- Roles and responsibilities are assigned
+- Initial risks and mitigation options are identified
 
 ## Decision Gate
 Move to planning when:

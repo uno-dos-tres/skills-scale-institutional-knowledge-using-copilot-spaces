@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Define owners for each communication channel and update frequency
 
 ## Communication Templates
 Weekly Status Template:
@@ -30,12 +31,27 @@ Weekly Status Template:
 - Next steps:
 - Risks & blockers:
 - Ask / decisions needed:
+- Owner:
 
 Incident Communication
 - Triage summary
 - Actions being taken
 - Expected timeline
 - Post-incident blameless retrospective scheduled
+
+## Risk Review Checklist
+- [ ] Risk register reviewed at least weekly
+- [ ] New risks identified and owners assigned
+- [ ] Risk status updated for open issues
+- [ ] Mitigations tracked and confirmed in progress
+- [ ] Escalations and communication actions captured
+
+## Communication Ownership
+- Project Manager: overall status updates, risk communication, stakeholder syncs
+- Product Manager: scope changes, business decisions, prioritization updates
+- Delivery Lead: release readiness and deployment communications
+- QA Lead: quality status and validation outcomes
+- Stakeholder Liaison: stakeholder expectations and escalation support
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
