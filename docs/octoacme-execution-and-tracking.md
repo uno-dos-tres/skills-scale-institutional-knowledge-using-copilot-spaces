@@ -22,16 +22,26 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- Confirm test environments are available and aligned with deployment plan
 
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
 - Use dashboards for key signals (errors, latency, usage)
+- Review metrics and risks during weekly delivery syncs
+- Record any process inefficiencies for retrospective follow-up
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
+
+## Execution Improvement Checklist
+- [ ] Daily standups have a clear blocker and dependency focus
+- [ ] Weekly delivery sync includes a risk and metrics review
+- [ ] Process gaps are captured as action items during retrospectives
+- [ ] Quality and release criteria are reviewed before major milestones
+- [ ] Communications are documented in the project status artifact
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo

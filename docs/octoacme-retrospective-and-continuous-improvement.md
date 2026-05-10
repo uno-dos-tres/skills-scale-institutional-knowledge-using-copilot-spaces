@@ -20,6 +20,8 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Track improvement items in a visible improvement backlog or project board column
+- Ensure each action has a clear owner and follow-up date
 
 ## Example Action Item Template
 - Title:
@@ -27,7 +29,16 @@ After each sprint, release, or important milestone. Also after incidents.
 - Owner:
 - Due date:
 - Success criteria:
+- Status:
 
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Review previous retrospective actions before the next retrospective
+
+## Continuous Improvement Checklist
+- [ ] Retrospective outcomes captured and shared with the team
+- [ ] Top action items added to backlog or project board
+- [ ] Owners assigned for each action item
+- [ ] Previous actions reviewed for completion and impact
+- [ ] Improvement themes tracked across projects
